@@ -1,0 +1,8 @@
+.pull-right{
+    float: right;
+}
+.thumbnail{
+    border: 1px solid #dcdcdc;
+    margin-bottom: 15px;
+    padding: 10px;
+}
